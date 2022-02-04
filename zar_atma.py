@@ -1,4 +1,3 @@
-# 2 Adet Zar Atma
 import random
 while 1:
     karar = input("\nZar atılsın mı? (e/h) : ")
