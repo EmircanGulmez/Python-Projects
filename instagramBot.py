@@ -46,7 +46,7 @@ class instagram:
             durum = i.find_element_by_css_selector("a").get_attribute("href")
             print(durum)
 
-insta = instagram("out.i.s", "03031980789enes")
+insta = instagram("KULLNAICI ADINI YAZ", "ŞİRENİ YAZ")
 insta.giris()
 time.sleep(2)
 insta.takipciSayfasi()
